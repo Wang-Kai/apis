@@ -58,4 +58,7 @@ const (
 
 	// CloseQueueAction is the action to close queue
 	CloseQueueAction Action = "CloseQueue"
+
+	// DeleteJobAction is the action to delete the job
+	DeleteJobAction Action = "DeleteJob"
 )
